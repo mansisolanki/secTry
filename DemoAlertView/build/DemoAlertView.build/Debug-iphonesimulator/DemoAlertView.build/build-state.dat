@@ -1,0 +1,534 @@
+TDemoAlertView
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist DemoAlertView/DemoAlertView-Info.plist
+cProcessPCH /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView normal i386
+cGenerateDSYMFile /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+cCopyStringsFile /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings DemoAlertView/en.lproj/InfoPlist.strings
+cCpResource DemoAlertView/Default-568h@2x.png build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png
+cCpResource DemoAlertView/Default@2x.png build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png
+cCpResource DemoAlertView/Default.png build/Debug-iphonesimulator/DemoAlertView.app/Default.png
+cCompileStoryboard /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard
+cTouch /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050F4CA800000000000228FE0
+t1358219904
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4CA8C00000000003DDFA0
+t1358219916
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4CA8C00000000000015F7
+t1358219916
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050D532860000000000000E8D
+t1356149382
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050F4CAC80000000000AB6230
+t1358219976
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000050F4CB700000000000001B73
+t1358220144
+s7027
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.h
+c0000000051A6FCCD0000000000000115
+t1369898189
+s277
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m
+c0000000051A6FCCD0000000000000818
+t1369898189
+s2072
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/DemoAlertView-Prefix.pch
+c0000000051A6FCCD0000000000000149
+t1369898189
+s329
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.h
+c0000000051A6FD5200000000000000F9
+t1369898322
+s249
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m
+c0000000051A6FD5200000000000002E2
+t1369898322
+s738
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/InfoPlist.strings
+c0000000051A6FCCD000000000000002D
+t1369898189
+s45
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard
+c0000000051A6FD510000000000000D4E
+t1369898321
+s3406
+
+N/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m
+c0000000051A6FCCD0000000000000150
+t1369898189
+s336
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default.png
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/PkgInfo
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/DemoAlertView.LinkFileList
+c0000000051A6FD5200000000000001AF
+t1369898322
+s431
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m
+c0000000051A6FCCD0000000000000818
+t1369898189
+s2072
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/DemoAlertView-Prefix.pch
+c0000000051A6FCCD0000000000000149
+t1369898189
+s329
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m
+c0000000051A6FD5200000000000002E2
+t1369898322
+s738
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/en.lproj/InfoPlist.strings
+c0000000051A6FCCD000000000000002D
+t1369898189
+s45
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard
+c0000000051A6FD510000000000000D4E
+t1369898321
+s3406
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m
+c0000000051A6FCCD0000000000000150
+t1369898189
+s336
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+t1369898324
+s306
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM
+t1369898323
+s102
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png
+t1369898323
+s18594
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default.png
+t1369898323
+s6540
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png
+t1369898323
+s16107
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+t1369898323
+s17228
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist
+t1369898322
+s852
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/PkgInfo
+t1369898322
+s8
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings
+t1369898323
+s42
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/MainStoryboard.storyboardc
+t1369898324
+s170
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o
+t1369898322
+s86412
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/DemoAlertView.LinkFileList
+c0000000051A9D89B00000000000001B8
+t1370085531
+s440
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o
+t1369898322
+s72956
+
+N/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o
+t1369898322
+s3172
+
+N/var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.pth
+t2
+s0
+
+NDemoAlertView/DemoAlertView-Info.plist
+c0000000051A6FCCD00000000000004CA
+t1369898189
+s1226
+
+CBuild AST from /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m
+r0
+
+CBuild AST from /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m
+r0
+
+CBuild AST from /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m
+r0
+
+CBuild AST from /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m
+r0
+
+CBuild AST from /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m
+r0
+
+CBuild AST from /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3e42651b105ab741^486e751b105ab741^---0#1#0#--18"Check dependencies36"BC4F3B72-A810-411E-8360-D917B0F5A02F-
+
+CCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391591122.817202
+e391591122.910110
+r1
+xCompileC
+xbuild/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o
+x/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m3350d1d23457b741^c6fce8d23457b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m0000000000000000^3642"CompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o DemoAlertView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator -include /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.dia -c /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/AppDelegate.m -o /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o36"ECB97944-BA71-458B-A866-4D6D6D280D36-
+
+CCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391778331.719175
+e391778331.772133
+r1
+xCompileC
+xbuild/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o
+x/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m4739b81b105ab741^6dabc51b105ab741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m0000000000000000^3681"CompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o DemoAlertView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator -include /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.dia -c /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/AppDelegate.m -o /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/AppDelegate.o36"508712ED-3E84-4C6A-9705-CEADEEEE4431-
+
+CCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391591122.817166
+e391591122.903269
+r1
+xCompileC
+xbuild/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o
+x/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m374fd1d23457b741^793ee7d23457b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m0000000000000000^3660"CompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o DemoAlertView/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator -include /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.dia -c /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/ViewController.m -o /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o36"1C1AA964-0975-44A3-ADA5-A008632C989C-
+
+CCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391778331.719157
+e391778331.768921
+r1
+xCompileC
+xbuild/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o
+x/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m0c3bb81b105ab741^02d8c41b105ab741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m0000000000000000^3699"CompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o DemoAlertView/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator -include /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.dia -c /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/ViewController.m -o /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/ViewController.o36"EC09F454-1EDD-49A4-A0AA-DE5B495B7957-
+
+CCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391591122.817160
+e391591122.887559
+r1
+xCompileC
+xbuild/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o
+x/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m164fd1d23457b741^bd36e3d23457b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m0000000000000000^3600"CompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o DemoAlertView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator -include /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.dia -c /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/main.m -o /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o36"CE468031-738A-4C5A-A7A2-85C7751EBF42-
+
+CCompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391778331.719161
+e391778331.741070
+r1
+xCompileC
+xbuild/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o
+x/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.mb83ab81b105ab741^56b8bd1b105ab741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m0000000000000000^3639"CompileC build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o DemoAlertView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator -include /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.dia -c /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/main.m -o /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/main.o36"326C027B-F307-4860-B300-3F0DC104DCE4-
+
+CCompileStoryboard /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard
+s391591123.541667
+e391591124.115932
+r1
+xCompileStoryboard
+x/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard DemoAlertView/en.lproj/MainStoryboard.storyboardb2b98ad33457b741^a3ae1dd43457b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard0000000000000000^974"CompileStoryboard DemoAlertView/en.lproj/MainStoryboard.storyboard    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/MainStoryboard.storyboardc /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"2AB60170-826C-42C7-B198-C4FA1A74D40E-
+
+CCompileStoryboard /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/en.lproj/MainStoryboard.storyboard
+r0
+
+CCopyStringsFile /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings DemoAlertView/en.lproj/InfoPlist.strings
+s391591123.538600
+e391591123.541992
+r1
+xCopyStringsFile
+x/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings
+xDemoAlertView/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy DemoAlertView/en.lproj/InfoPlist.strings2cf489d33457b741^0ec08ad33457b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/en.lproj/InfoPlist.strings0000000000000000^607"CopyStringsFile build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings DemoAlertView/en.lproj/InfoPlist.strings    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj -- DemoAlertView/en.lproj/InfoPlist.strings36"7A37BD5C-62C1-4950-9BD8-ED26BD9FBC1D-
+
+CCopyStringsFile /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/en.lproj/InfoPlist.strings DemoAlertView/en.lproj/InfoPlist.strings
+r0
+
+CCpResource DemoAlertView/Default-568h@2x.png build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png
+s391591123.539037
+e391591123.544095
+r1
+xCpResource
+xDemoAlertView/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png700b8ad33457b741^124a8bd33457b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png000000000080d041^640"CpResource "DemoAlertView/Default-568h@2x.png" "build/Debug-iphonesimulator/DemoAlertView.app/Default-568h@2x.png"    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/Default-568h@2x.png" /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app36"0A5A7C1D-A099-495A-977A-6C3786BCE92B-
+
+CCpResource DemoAlertView/Default.png build/Debug-iphonesimulator/DemoAlertView.app/Default.png
+s391591123.538618
+e391591123.540534
+r1
+xCpResource
+xDemoAlertView/Default.png
+xbuild/Debug-iphonesimulator/DemoAlertView.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/DemoAlertView.app/Default.pngc7f389d33457b741^80608ad33457b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default.png000000000080d041^610"CpResource DemoAlertView/Default.png build/Debug-iphonesimulator/DemoAlertView.app/Default.png    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/Default.png /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app36"F675F7F5-E0E2-4067-94FE-AB1ED37BD903-
+
+CCpResource DemoAlertView/Default@2x.png build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png
+s391591123.538616
+e391591123.542868
+r1
+xCpResource
+xDemoAlertView/Default@2x.png
+xbuild/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png0af489d33457b741^87f98ad33457b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png000000000080d041^625"CpResource "DemoAlertView/Default@2x.png" "build/Debug-iphonesimulator/DemoAlertView.app/Default@2x.png"    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/Default@2x.png" /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app36"9291AF72-1541-4072-A557-57FBB4B82ADB-
+
+CGenerateDSYMFile /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+s391591123.443296
+e391591123.530517
+r1
+xGenerateDSYMFile
+x/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM
+x/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM5d8c71d33457b741^18d087d33457b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM000000000080d041^673"GenerateDSYMFile build/Debug-iphonesimulator/DemoAlertView.app.dSYM build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView -o /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM36"24ACD3BD-4DB9-46FE-AF49-51A2555AE399-
+
+CGenerateDSYMFile /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+s391778332.077706
+e391778332.110594
+r1
+xGenerateDSYMFile
+x/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM
+x/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Generate /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM84f5131c105ab741^d34f1c1c105ab741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM/0000000000000000^682"GenerateDSYMFile build/Debug-iphonesimulator/DemoAlertView.app.dSYM build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView -o /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app.dSYM36"920330C2-CEB9-4195-ADDC-073FFC3AC3A1-
+
+CLd /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView normal i386
+s391591122.916994
+e391591123.436551
+r1
+xLd
+x/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertViewa6d3ead23457b741^dfc16fd33457b741^---0#0#0#--1198"Ld build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView normal i386    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator -F/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator -filelist /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/DemoAlertView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView36"5B8C63E2-4709-4902-BCF4-C185B09CEB29-
+
+CLd /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView normal i386
+s391778331.778937
+e391778332.070802
+r1
+xLd
+x/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Link /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView5b7bc71b105ab741^2520121c105ab741^---0#0#0#--1213"Ld build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView normal i386    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator -F/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator -filelist /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/Objects-normal/i386/DemoAlertView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/DemoAlertView36"BF5DC6E9-0DF5-45CF-A4BC-B43C5B8F55DA-
+
+CProcessInfoPlistFile /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist DemoAlertView/DemoAlertView-Info.plist
+s391591122.169541
+e391591122.172545
+r1
+xProcessInfoPlistFile
+x/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist
+xDemoAlertView/DemoAlertView-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process DemoAlertView/DemoAlertView-Info.plist25782bd23457b741^b62f2cd23457b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/DemoAlertView-Info.plist0000000000000000^704"ProcessInfoPlistFile build/Debug-iphonesimulator/DemoAlertView.app/Info.plist DemoAlertView/DemoAlertView-Info.plist    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DemoAlertView/DemoAlertView-Info.plist -genpkginfo /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist36"A9CE2845-2B15-4DBC-AD7A-C0976B4F5C05-
+
+CProcessInfoPlistFile /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app/Info.plist DemoAlertView/DemoAlertView-Info.plist
+r0
+
+CProcessPCH /Users/indianic/Library/Developer/Xcode/DerivedData/DemoAlertView-czsjcqxidwsnkmgjwmhusktwefyj/Index/PrecompiledHeaders/DemoAlertView-Prefix-dvzpcgzhnmyczcabqvmuzvqkbyiu_ast/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/indianic/Library/Developer/Xcode/DerivedData/DemoAlertView-fgtfnbtupjgvxpdpwpxewwdyxvpy/Index/PrecompiledHeaders/DemoAlertView-Prefix-elpdowgcnhywzcayskntjmginjwz_ast/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391591122.187678
+e391591122.794364
+r1
+xProcessPCH
+x/var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.pth
+xDemoAlertView/DemoAlertView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile DemoAlertView/DemoAlertView-Prefix.pch6b4830d23457b741^5b5ccbd23457b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/DemoAlertView-Prefix.pch0000000000000000^3646"ProcessPCH /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/Data/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.dia -c /Users/indianic/Desktop/Data/DemoAlertView/DemoAlertView/DemoAlertView-Prefix.pch -o /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-avfudgmphdoudzcpzvojgvpcpxip/DemoAlertView-Prefix.pch.d36"F89C0D60-290D-4A8B-B57F-360C21CB0F54-
+
+CProcessPCH /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391778331.471079
+e391778331.712226
+r1
+xProcessPCH
+x/var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.pth
+xDemoAlertView/DemoAlertView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile DemoAlertView/DemoAlertView-Prefix.pch9ab5781b105ab741^1e54b61b105ab741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/DemoAlertView-Prefix.pch0000000000000000^3676"ProcessPCH /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.pth DemoAlertView/DemoAlertView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-generated-files.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-own-target-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-all-target-headers.hmap -iquote /Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DemoAlertView-project-headers.hmap -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources/i386 -I/Users/indianic/Desktop/LastTry/DemoAlertView/build/DemoAlertView.build/Debug-iphonesimulator/DemoAlertView.build/DerivedSources -F/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.dia -c /Users/indianic/Desktop/LastTry/DemoAlertView/DemoAlertView/DemoAlertView-Prefix.pch -o /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/bg/f74z5_gs6ss8dtt3zgnj81rm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DemoAlertView-Prefix-fhmcyilxrocwtqcrdqybvudzjscl/DemoAlertView-Prefix.pch.d36"193A6076-10B9-4D24-82A9-1A84E81055C0-
+
+CTouch /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+s391591124.123968
+e391591124.144530
+r1
+xTouch
+x/Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app3acc1fd43457b741^ebff24d43457b741^---0#0#0#--408"Touch build/Debug-iphonesimulator/DemoAlertView.app    cd /Users/indianic/Desktop/Data/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/indianic/Desktop/Data/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app36"7EC63E4C-8F54-4AF7-B25F-FF77A1CEDDC2-
+
+CTouch /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+s391778332.128247
+e391778332.152369
+r1
+xTouch
+x/Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.appa0c1221c105ab741^8601271c105ab741^---0#0#0#--414"Touch build/Debug-iphonesimulator/DemoAlertView.app    cd /Users/indianic/Desktop/LastTry/DemoAlertView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/indianic/Desktop/LastTry/DemoAlertView/build/Debug-iphonesimulator/DemoAlertView.app36"2647FC61-33BF-4B01-83FA-EF61F0D961B6-
+
