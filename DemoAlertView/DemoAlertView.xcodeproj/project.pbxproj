@@ -212,7 +212,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -227,6 +228,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -242,7 +245,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -250,6 +254,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -258,10 +264,14 @@
 		A994CD491757344D008B6A84 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DemoAlertView/DemoAlertView-Prefix.pch";
 				INFOPLIST_FILE = "DemoAlertView/DemoAlertView-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -269,10 +279,14 @@
 		A994CD4A1757344D008B6A84 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: IndiaNIC Infotech (G6WD4AXYRV)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DemoAlertView/DemoAlertView-Prefix.pch";
 				INFOPLIST_FILE = "DemoAlertView/DemoAlertView-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "B1B8CA44-BC95-4D55-84FF-AF47E6F43FEF";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -296,6 +310,7 @@
 				A994CD4A1757344D008B6A84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

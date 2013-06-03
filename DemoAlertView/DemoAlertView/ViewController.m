@@ -28,7 +28,7 @@
 
 -(IBAction)btnClickMe:(id)sender
 {
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Alert Demo" message:@"Type Message Here!!!" delegate:self cancelButtonTitle:@"OK" otherButtonTitles: nil];
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Alert Demo" message:@"Hello!!!" delegate:self cancelButtonTitle:@"OK" otherButtonTitles: nil];
     [alert show];
     [alert release];
 }
